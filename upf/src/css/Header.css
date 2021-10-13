@@ -1,0 +1,9 @@
+.logo{
+width: 50px !important;
+
+}
+
+.border-hover:hover{
+    border-bottom: 1px solid lightgray;
+
+}

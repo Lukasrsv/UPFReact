@@ -1,0 +1,19 @@
+.margem-top-formulario{
+
+    margin-top: 62px;
+}
+
+.input-bg{
+    background-color: #444;
+    border-color: #444;
+}
+
+input.borda-vermelha{
+    border-color: red !important;
+
+}
+
+input.borda-verde{
+    border-color: green !important;
+
+}
